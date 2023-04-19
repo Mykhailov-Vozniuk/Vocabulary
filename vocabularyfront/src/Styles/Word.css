@@ -1,0 +1,19 @@
+.word-li {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
+.word-li button {
+	height: 30px;
+	margin-top: 20px;
+}
+
+.word-box {
+	margin-top: 20px;
+}
+
+.word-box p {
+	all: unset;
+	margin-left: 10px;
+}
